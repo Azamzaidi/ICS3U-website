@@ -1,6 +1,15 @@
  {
   margin: 5px;
   padding:  0cqh; }
-body {
-  background-color: rgb(182, 182, 224;
+.home {
+  background-color: hsl(198, 68%, 70%);
+}
+.threats {
+ backgroung-color: hsl(277, 62%, 87%);
+}
+.tools{
+ backgroung-color: hsl(278, 22%, 90%);
+}
+.tips {
+ background-color: hsl(278, 22%, 90%);
 }
