@@ -1,3 +1,4 @@
 function showMessage ( ) {
-  alert("Be careful online! Always protect your information.");
+document.getElementById("message").textContent =
+  "Always download tools from trusted sources and keep them updated.";
 }
