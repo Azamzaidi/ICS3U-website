@@ -1,6 +1,18 @@
  {
   margin: 5px;
   padding:  0cqh; }
+.navbar {
+ backgroundcolor: lightgray
+ padding 15px;
+ width: 200px;
+}
+.navbar a{
+ display: block;
+ margin: 8px 0;
+ text-decoration: none;
+ color: black
+ font-weight: bold;
+}
 .home {
   background-color: lightblue;
 }
@@ -12,4 +24,7 @@
 }
 .tips {
  background-color:  lightblue;
+}
+.container {
+ display: grid;
 }
