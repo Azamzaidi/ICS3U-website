@@ -1,3 +1,3 @@
 function showMessage() {
-document.getElementById("message").textContent="Be Careful while using online Platforms";
+document.getElementById("message").innerHTML ="Be Careful while using online Platforms. <br> + 'check it here: <a href="tips.html" target=_blank">Tips Page</a>';
 }
