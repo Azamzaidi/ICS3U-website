@@ -19,12 +19,12 @@
 .home {
   background-color: lightgrey;
 }
-.threats {
+body.threats {
  backgroung-color: lightcoral;
 }
-.tools{
+body.tools{
  backgroung-color: lightgreen;
 }
-.tips {
+body.tips {
  background-color: lightblue;
 }
