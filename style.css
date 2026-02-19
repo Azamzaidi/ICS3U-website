@@ -4,7 +4,7 @@
 
 .navbar {
  backgroundcolor: darkblue;
- padding: 8px;
+ padding: 5px;
  text-align: 8px;
 }
 .navbar a {
@@ -17,13 +17,13 @@
  color: white;
 }
 .home {
-  background-color: lightblue;
+  background-color: lightgrey;
 }
 .threats {
- backgroung-color: lightblue;
+ backgroung-color: lightcoral;
 }
 .tools{
- backgroung-color: lightblue;
+ backgroung-color: lightgreen;
 }
 .tips {
  background-color: lightblue;
