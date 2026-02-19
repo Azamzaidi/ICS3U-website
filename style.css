@@ -32,6 +32,6 @@ body.tools {
 body.tips {
   background-color: lightblue;
 }
-.intro-text {
- color: darkblue;
+.section.class {
+ text-color: darkblue;
 }
