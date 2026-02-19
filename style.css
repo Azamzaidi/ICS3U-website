@@ -3,13 +3,13 @@
   padding:  0cqh; }
 
 .navbar {
- backgroundcolor: lightgray;
- padding: 12px;
- text-align: center;
+ backgroundcolor: darkblue;
+ padding: 10px;
+ text-align: 8px;
 }
 .navbar a {
  margin: 0 15px;
- text-decoration: none;
+ text-decoration: white;
  color: black
  font-weight: bold;
 }
