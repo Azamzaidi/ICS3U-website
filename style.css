@@ -20,10 +20,10 @@ body.home {
   background-color: lightgrey;
 }
 body.threats {
- background-color: lightcarol;
+ background-color: lightcarol! important;
 }
 body.tools {
- background-color: lightgreen;
+ background-color: lightgreen! important;
 }
 body.tips {
  background-color: lightblue;
