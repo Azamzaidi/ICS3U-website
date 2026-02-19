@@ -14,7 +14,7 @@
  font-weight: bold;
 }
 .navbar a:hover {
- color: white;
+ color: darkblue;
 }
 body.home {
   background-color: lightgrey;
@@ -22,7 +22,7 @@ body.home {
 body.threats {
  backgroung-color: lightcoral;
 }
-body.tools{
+body.tools {
  backgroung-color: lightgreen;
 }
 body.tips {
