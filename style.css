@@ -16,7 +16,7 @@
 .navbar a:hover {
  color: white;
 }
-.home {
+body.home {
   background-color: lightgrey;
 }
 body.threats {
