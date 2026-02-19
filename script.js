@@ -1,4 +1,4 @@
 
 function showMessage() {
-document.getElementById("message").innerHTML= href="https://azamzaidi.github.io/ICS3U-website/tips.html" target="_blank";
+document.getElementById("message").textContext ="Be careful while using online platform. Go for tips at Tips Page";
 }
