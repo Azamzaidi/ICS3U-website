@@ -35,3 +35,22 @@ body.tips {
 .class {
  text-color: darkblue;
 }
+/* Simple hover transition */
+a {
+    color: blue;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: red;
+}
+
+/* Simple animation */
+@keyframes fade {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+body {
+    animation: fade 1s;
+}
