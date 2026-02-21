@@ -19,6 +19,22 @@
           </section>
       <button onclick="showMessage()">Click Me</button>
         <p id="message"></p>
-    <script src="script.js" defer></script>
+          <!-- Canvas Section -->
+<h2>Simple Security Animation</h2>
+<canvas id="myCanvas" width="300" height="150" style="border:1px solid black;"></canvas>
+<script>
+// canvas drawing
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+// rectangle
+ctx.fillStyle = "green";
+ctx.fillRect(50, 50, 200, 50);
+
+// Write text
+ctx.fillStyle = "white";
+ctx.font = "20px Arial";
+ctx.fillText("Cyber Safe", 95, 80);
+</script>
   </body>
 </html>
