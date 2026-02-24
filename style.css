@@ -19,7 +19,8 @@
 .container {
  display: grid;
  grid-template-columns: 1fr 1fr;
- gap: 20px;
+ gap: 40px;
+ padding 40px;
 }
 body.home {
   background-image: url("https://images.unsplash.com/photo-1660644807804-ffacfd7a4137?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
